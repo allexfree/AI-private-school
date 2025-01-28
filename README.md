@@ -3,7 +3,7 @@
 <aside>
 💡
 
-After filling out the Subject, Audience,  Duration, and Goal. Copy the full prompt and give it to a new chat in chatgpt.
+After filling out the Subject, Audience,  Duration, and Goal. Copy the full prompt and give it to a new chat in your chatbot.
 
 </aside>
 
@@ -27,7 +27,7 @@ Audience: Me ([Describe your current knowledge level, e.g., beginner, no prior e
 <aside>
 💡
 
-You are obviously the audience. But Chatgpt has knowledge of you from past chats too. 
+You are obviously the audience. But some chatbots have knowledge of you from past chats too. 
 
 for example you can say - Me and all the knowledge you have about me including the way I like to learn. I still feel like a (the level of skill you feel at).
 
