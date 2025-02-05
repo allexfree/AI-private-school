@@ -1,5 +1,7 @@
 # Learn Anything Prompt
 
+[Learn Anything PDF](https://notes.codedidit.com/learnanything) Here is a PDF version as well. 
+
 <aside>
 💡
 
